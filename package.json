@@ -1,0 +1,35 @@
+{
+  "name": "vscode-theme-deep-ocean",
+  "displayName": "Theme: Deep Ocean",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominique-mueller/vscode-theme-deep-ocean"
+  },
+  "publisher": "itsdevdom",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme: Deep Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-ocean-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "clean": "rimraf *.vsix",
+    "bundle": "vsce package --no-git-tag-version",
+    "publish": "vsce publish --no-git-tag-version"
+  },
+  "devDependencies": {
+    "rimraf": "3.0.x",
+    "vsce": "1.96.x"
+  }
+}
