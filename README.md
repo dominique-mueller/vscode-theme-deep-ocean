@@ -29,12 +29,16 @@ Syntax highlighting is using the **[Oceanic Next](https://github.com/voronianski
 
 ## Color Scheme: Visual Studio Code UI
 
+Cool grey colors:
+
 ![#0D1012](https://via.placeholder.com/11/0D1012/000000?text=+) `#0D1012`<br>
 ![#171C1F](https://via.placeholder.com/11/171C1F/000000?text=+) `#171C1F`<br>
 ![#222A2E](https://via.placeholder.com/11/1B2024/000000?text=+) `#1B2024`<br>
 ![#242C30](https://via.placeholder.com/11/242C30/000000?text=+) `#242C30`<br>
 ![#303A40](https://via.placeholder.com/11/303A40/000000?text=+) `#303A40`<br>
 ![#3F4C54](https://via.placeholder.com/11/3F4C54/000000?text=+) `#3F4C54`<br>
+
+Blue colors:
 
 ![#284D73](https://via.placeholder.com/11/284D73/000000?text=+) `#284D73`<br>
 ![#2D5680](https://via.placeholder.com/11/2D5680/000000?text=+) `#2D5680`<br>
