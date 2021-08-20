@@ -1,6 +1,6 @@
 {
   "name": "vscode-theme-deep-ocean",
-  "displayName": "Theme: Deep Ocean",
+  "displayName": "Deep Ocean",
   "description": "",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Theme: Deep Ocean",
+        "label": "Deep Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/deep-ocean-color-theme.json"
       }
