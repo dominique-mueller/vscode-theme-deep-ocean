@@ -1,6 +1,20 @@
-# vscode-theme-deep-ocean
+<br><br>
 
-"Deep Ocean" Theme for Visual Studio Code
+<div align="center">
+
+![Logo](./assets/icon-small.png?raw=true)
+
+# Deep Ocean
+
+**Deep Ocean Theme for Visual Studio Code, based on Oceanic Next**
+
+</div>
+
+<br>
+
+## Preview
+
+![Logo](./assets/preview.png?raw=true)
 
 <br>
 
