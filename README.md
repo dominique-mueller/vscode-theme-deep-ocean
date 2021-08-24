@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](./assets/icon-small.png?raw=true)
+![Logo](assets/icon-small.png?raw=true)
 
 # Deep Ocean
 
@@ -14,7 +14,7 @@
 
 ## Preview
 
-![Logo](./assets/preview.png?raw=true)
+![Logo](assets/preview.png?raw=true)
 
 <br>
 
