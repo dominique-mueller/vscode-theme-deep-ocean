@@ -31,7 +31,7 @@
   "scripts": {
     "clean": "rimraf *.vsix",
     "bundle": "vsce package --no-git-tag-version",
-    "publish": "vsce publish --no-git-tag-version"
+    "publish-to-marketplace": "vsce publish --no-git-tag-version"
   },
   "devDependencies": {
     "rimraf": "3.0.x",
