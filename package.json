@@ -1,19 +1,24 @@
 {
   "name": "vscode-theme-deep-ocean",
+  "version": "1.0.0",
   "displayName": "Deep Ocean",
-  "description": "",
+  "description": "Deep Ocean Theme for Visual Studio Code, based on Oceanic Next",
   "repository": {
     "type": "git",
     "url": "https://github.com/dominique-mueller/vscode-theme-deep-ocean"
   },
   "publisher": "itsdevdom",
-  "version": "1.0.0",
   "engines": {
     "vscode": "^1.59.0"
+  },
+  "galleryBanner": {
+    "color": "#343D46",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "assets/icon.png",
   "contributes": {
     "themes": [
       {
