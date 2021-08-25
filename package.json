@@ -30,7 +30,8 @@
   },
   "scripts": {
     "clean": "rimraf *.vsix",
-    "bundle": "vsce package --no-git-tag-version",
+    "bundle": "vsce ls && vsce package --no-git-tag-version",
+    "ttt": "vsce ls",
     "publish-to-marketplace": "vsce publish --no-git-tag-version"
   },
   "devDependencies": {

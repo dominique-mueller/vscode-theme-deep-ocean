@@ -1,5 +1,6 @@
 .vscode/**
 .gitignore
+.github/**
 assets/icon.aep
 assets/icon-small.png
 assets/preview.png
