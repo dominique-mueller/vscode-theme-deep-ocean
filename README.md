@@ -4,9 +4,9 @@
 
 ![Logo](assets/icon-small.png?raw=true)
 
-# Deep Ocean
+# Deep Ocean Theme
 
-**Deep Ocean Theme for Visual Studio Code, based on Oceanic Next**
+**Dark color theme based on Oceanic Next**
 
 </div>
 

@@ -1,13 +1,13 @@
 {
   "name": "theme-deep-ocean",
+  "publisher": "itsdevdom",
   "version": "1.0.0",
-  "displayName": "Deep Ocean",
-  "description": "Deep Ocean Theme for Visual Studio Code, based on Oceanic Next",
+  "displayName": "Deep Ocean Theme",
+  "description": "Dark color theme based on Oceanic Next",
   "repository": {
     "type": "git",
     "url": "https://github.com/dominique-mueller/vscode-theme-deep-ocean"
   },
-  "publisher": "itsdevdom",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -30,9 +30,8 @@
   },
   "scripts": {
     "clean": "rimraf *.vsix",
-    "bundle": "vsce ls && vsce package --no-git-tag-version",
-    "ttt": "vsce ls",
-    "publish-to-marketplace": "vsce publish --no-git-tag-version"
+    "bundle": "vsce ls && vsce package",
+    "bundle-and-publish": "vsce ls && vsce publish"
   },
   "devDependencies": {
     "rimraf": "3.0.x",
