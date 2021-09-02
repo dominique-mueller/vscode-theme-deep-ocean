@@ -17,6 +17,7 @@
     "editor.inactiveSelectionBackground": "#343D46",
     "editor.lineHighlightBackground": "#303A40",
     "editor.selectionBackground": "#4f5b66",
+    "editorCodeLens.foreground": "#A7ADBA",
     "editorCursor.foreground": "#C0C5CE",
     "editorGroupHeader.border": "#0D1012",
     "editorGroupHeader.tabsBackground": "#171C1F",
