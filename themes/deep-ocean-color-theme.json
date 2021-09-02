@@ -46,6 +46,7 @@
     "list.inactiveSelectionBackground": "#303A40",
     "menu.background": "#242C30",
     "menu.selectionBackground": "#3F4C54",
+    "menubar.selectionBackground": "#242C30",
     "merge.commonContentBackground": "#242C30",
     "merge.commonHeaderBackground": "#3F4C54",
     "merge.currentContentBackground": "#76C66D1A",
