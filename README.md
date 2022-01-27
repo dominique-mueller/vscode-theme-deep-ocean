@@ -14,7 +14,9 @@
 
 ## Preview
 
-![Logo](assets/preview.png?raw=true)
+Enjoy the screenshot, or see it live on https://vscode.dev/theme/itsdevdom.theme-deep-ocean/Deep%20Ocean!
+
+![Preview](assets/preview.png?raw=true)
 
 <br>
 
